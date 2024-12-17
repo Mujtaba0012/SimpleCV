@@ -15,4 +15,9 @@ Here’s a short description of how you created this CV:
 
 7. Footer: Added a copyright notice using `<footer>`.
 
+8. So here is the link for my project that is as followed
+
+9.<a href="file:///E:/PROJECTS/SimpleCV.html">Open SimpleCV</a>
+
+
 This approach ensures a clean, professional layout with good usability and SEO. Let me know if you need any further explanation or enhancements!
