@@ -1,23 +1,22 @@
-# SimpleCV
-Here’s a short description of how you created this CV:
+# SimpleCV Project
 
-1. HTML Structure: Used `<!DOCTYPE html>` to define HTML5 and structured the page with `<head>` for metadata and `<body>` for content.
+This is a simple HTML-based CV template designed for showcasing personal information, skills, and professional experience.
 
-2. Metadata and SEO: Added meta tags for character encoding, viewport settings, description, and keywords to improve SEO. Included Open Graph (OG) meta tags for better social media sharing.
+## Project Features
+- Clean and professional layout.
+- Includes SEO meta tags for better search engine visibility.
+- Open Graph (OG) tags for social media sharing.
+- Favicon for a polished look.
+- Semantic HTML for accessibility and readability.
 
-3. Favicon and Title: Linked a favicon for browser tab visibility. Set a descriptive `<title>` for the page.
+## How to Use
+1. Clone or download the project files.
+2. Open `SimpleCV.html` in your browser to view the CV.
 
-4. Header: Displayed your name, profession, and contact details in a structured format using `<header>` and `<address>` tags. Made contact information clickable (phone, email, and LinkedIn).
+## Project URL
+[Open SimpleCV Project](file:///E:/PROJECTS/SimpleCV.html)
 
-5. Main Content: Used `<main>` to wrap the primary sections of the CV: **About Me**: Highlighted your professional background.**Skills**: Created a bullet list of core competencies with `<ul>` and `<li>`. **Professional Experience**: Listed job roles and responsibilities using `<article>` for each position. **Education**: Presented academic qualifications in a clear, bulleted format. **References**: Included a brief note about availability upon request.
-
-6. Styling and Accessibility: Used semantic tags like `<section>`, `<article>`, and `<footer>` for better readability and accessibility. Separated sections with `<hr>` for visual clarity.
-
-7. Footer: Added a copyright notice using `<footer>`.
-
-8. So here is the link for my project that is as followed
-
-9.<a href="SimpleCv">Open SimpleCV</a>
-
-
-This approach ensures a clean, professional layout with good usability and SEO. Let me know if you need any further explanation or enhancements!
+## Contact
+Created by **Mujtaba Hayat**  
+Email: [mujtabahayyat20@gmail.com](mailto:mujtabahayyat20@gmail.com)  
+LinkedIn: [Mujtaba Hayat's LinkedIn](https://www.linkedin.com/in/mujtaba-hayyat-a60a51258/)
