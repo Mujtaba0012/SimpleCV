@@ -14,7 +14,7 @@ This is a simple HTML-based CV template designed for showcasing personal informa
 2. Open `SimpleCV.html` in your browser to view the CV.
 
 ## Project URL
-Your Link Is Here: [Open SimpleCV Project](https://github.com/Mujtaba0012/SimpleCV/blob/main/SimpleCv)
+Your Link Is Here: [Open SimpleCV Project](https://github.com/Mujtaba0012/SimpleCV/blob/main/SimpleCV.html)
 
 
 ## Contact
